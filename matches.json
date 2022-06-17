@@ -3,7 +3,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local":{
       "nome": "Maracanã",
-      "imagem": "TODO"
+      "imagem": "https://diariodofla.com.br/wp-content/uploads/2021/11/Torcida-Flamengo-x-Corinthians.jpg"
     },
     "mandante": {
       "nome": "Brasil",
@@ -20,7 +20,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local":{
       "nome": "Estádio Centenário",
-      "imagem": "TODO"
+      "imagem": "http://blogs.diariodepernambuco.com.br/esportes/wp-content/uploads/2017/03/23/2017_uruguai_x_brasil_eliminatorias_centenario_560_4.jpg"
     },
     "mandante": {
       "nome": "Uruguay",
@@ -37,7 +37,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local":{
       "nome": "Maracanã",
-      "imagem": "TODO"
+      "imagem": "https://diariodofla.com.br/wp-content/uploads/2021/11/Torcida-Flamengo-x-Corinthians.jpg"
     },
     "mandante": {
       "nome": "Uruguay",
